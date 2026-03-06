@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "building-with-base-account": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "dfd6a333c4d5b7a366a8398b562c35ee556c73101bc7863109f0c4a97de611ed"
+    },
+    "connecting-to-base-network": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "ec7401d3b6513492e3d32f783bb94dfc4faca7bfab82537a86ab498fb77ee797"
+    },
+    "converting-minikit-to-farcaster": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "16d5cfb31acc3140fb388e6c4d90499f53bb6ca47d33fd2147322683fab3fe49"
+    },
+    "deploying-contracts-on-base": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "86b3bda0b762374bc1e59c6949942039891c440656a83c9601b1ea02c42d7f92"
+    },
+    "running-a-base-node": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "400a4f003207c018a6f8343d113e6ad4fe1ee3162a1164b9477a90001ebc2037"
+    },
+    "skill-creator": {
+      "source": "base/base-skills",
+      "sourceType": "github",
+      "computedHash": "bb3a8a0b52c84eff06a0f62b8a844d522e952be1d3a1ad438972b64b0758ed4e"
+    }
+  }
+}
