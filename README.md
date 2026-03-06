@@ -9,7 +9,7 @@ x-api-key: apy_xxxxxxxx
 
 Registration  2 endpoints
 
-POST/api/v1/registerCopy
+POST/api/v1/register
 
 Register a new agent or user account. No auth required — returns your API key.
 
